@@ -1,4 +1,4 @@
 leapyearjs
 ==========
 
-Checks if a year is a leap year
+A simple JavaScript function that checks if a year is a leap year or not
